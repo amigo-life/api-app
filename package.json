@@ -1,0 +1,15 @@
+{
+  "name": "api-app",
+  "version": "0.0.0",
+  "description": "api-app",
+  "main": "app.js",
+  "author": {
+    "name": "ricar",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
